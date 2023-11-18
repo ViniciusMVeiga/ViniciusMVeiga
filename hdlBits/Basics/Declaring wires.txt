@@ -1,0 +1,19 @@
+module top_module(
+    input a,
+    input b,
+    input c,
+    input d,
+    output out,
+    output out_n   ); 
+    
+    wire cassio;
+    wire rogerguedes;
+    wire corinthians;
+    
+    assign cassio=a&b;
+    assign rogerguedes=c&d;
+        assign corinthians=cassio|rogerguedes;
+            assign out=corinthians;
+            assign out_n=!corinthians;
+
+endmodule
