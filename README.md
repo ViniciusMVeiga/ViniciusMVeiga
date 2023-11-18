@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ViniciusMVeiga
+- 👀 I’m interested in back-end and embedded systems
+- 🌱 I’m currently learning Computer Engineering at UFSCar
+- 📫 How to reach me: https://www.linkedin.com/in/vin%C3%ADcius-marto-da-veiga-79531b294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
