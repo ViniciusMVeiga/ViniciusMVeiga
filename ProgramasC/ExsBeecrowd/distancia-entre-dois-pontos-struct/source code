@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+typedef struct{
+    double x1,y1,x1,x2;
+}strPontos;
+
+int main()
+{
+    strPontos pontos;
+    scanf("%lf",&pontos.x1);
+    scanf("%lf",&pontos.y1);
+    scanf("%lf",&pontos.x2);
+    scanf("%lf",&pontos.y2);
+
+
+    return 0;
+}
